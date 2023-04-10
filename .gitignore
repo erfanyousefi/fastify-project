@@ -1,3 +1,6 @@
 node_modules
 public/*
 !.gitkeep
+#OS
+.DS_Store
+desktop.ini
